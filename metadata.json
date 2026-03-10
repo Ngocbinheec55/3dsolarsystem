@@ -1,0 +1,5 @@
+{
+  "name": "3dsolarsystem",
+  "description": "A detailed 3D model of the solar system using React Three Fiber.",
+  "requestFramePermissions": []
+}
